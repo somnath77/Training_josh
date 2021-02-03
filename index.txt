@@ -12,4 +12,6 @@ testing vim
 chsdchdscds
 bcbjgcckhzickj
 
-Checking merge 
+Checking merge
+
+checking fast forward 
